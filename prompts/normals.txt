@@ -1,0 +1,1 @@
+Generate a surface normal estimation visualization of this image. Use the standard normal map color convention: surfaces facing left are pinkish-red, surfaces facing up are light green, surfaces facing the camera are light blue/purple. Produce a precise, per-pixel surface normal map.

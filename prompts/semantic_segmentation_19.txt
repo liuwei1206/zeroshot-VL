@@ -1,0 +1,1 @@
+Convert this photo into a color-coded map: {{ class_color_list }}, and everything else black.

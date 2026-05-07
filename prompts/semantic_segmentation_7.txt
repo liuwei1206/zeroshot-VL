@@ -1,0 +1,1 @@
+Turn this image into a flat segmentation mask using only solid colors. Paint {{ category_color_list }}, and everything else solid black. Each object must be filled completely as one single-color region from edge to edge — no internal details should be visible. No textures, no gradients.

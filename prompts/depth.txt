@@ -1,0 +1,1 @@
+Convert this image into a grayscale depth map with smooth gradual transitions. Nearby objects appear bright, distant objects appear dark. Each pixel's brightness smoothly varies according to its distance from the camera. Remove all color and texture, keep only soft grayscale depth gradients.

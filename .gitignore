@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data & checkpoints (large files)
+checkpoints/
+output/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+writing*
+logs
